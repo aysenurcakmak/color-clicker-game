@@ -12,6 +12,8 @@ After every click, the box colors shuffle randomly, adding a bit of challenge an
 2. Tap the **green box** to increase your score.  
 3. After each tap, the colors will shuffle randomly.  
 4. Press the **“End Game”** button to see your final score.
+   <img width="1685" height="852" alt="image" src="https://github.com/user-attachments/assets/d2ea9b6a-b9ab-4812-b7e1-6996eac90f41" />
+
 
 ---
 
